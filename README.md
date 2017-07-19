@@ -6,8 +6,8 @@ All these documents are drafts; the final versions will be published on the [Web
 
 ## Current issues
 
-* [Two factor authentication](2fa/readme.md)
-* [Age verification](age-verification/readme.md)
-* [General Data Protection Regulation](gdpr/readme.md)
-* [Intermediary liability](intermediary-liability/readme.md)
-* [Net neutrality](net-neutrality/readme.md)
+* [Two factor authentication](https://github.com/web-matters/industry-issues/tree/master/2fa)
+* [Age verification](https://github.com/web-matters/industry-issues/tree/master/age-verification)
+* [General Data Protection Regulation](https://github.com/web-matters/industry-issues/tree/master/gdpr)
+* [Intermediary liability](https://github.com/web-matters/industry-issues/tree/master/intermediary-liability)
+* [Net neutrality](https://github.com/web-matters/industry-issues/tree/master/net-neutrality)
