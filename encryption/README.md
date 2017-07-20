@@ -4,7 +4,7 @@
 
 Encryption involves complex mathematics to obscure data so that it is almost impossible to read without the correct decryption keys or passwords. End-to-end encryption is commonly used when transferring information that needs to be kept secret over a public system such as the internet.
 
-Critically, Encryption provided the following benefits:
+Critically, Encryption provides the following benefits:
 
 **Non-repudiation** - You can be sure that only the intended sender sent that message. Nobody else.  
 **Integrity** - The message has not been changed on the way to you by someone malicious.  
