@@ -12,7 +12,7 @@ Critically, Encryption provides the following benefits:
 
 
 ## Why is it important?  
-Without encryption the internet loses a lot of it's functions...
+Without encryption the internet loses a lot of its functions...
 
 1. Home Finance
 Without being able to prove who you are without risking your life savings, banks are unable to allow internet banking from within the UK.
