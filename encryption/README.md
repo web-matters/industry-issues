@@ -15,13 +15,13 @@ Critically, Encryption provides the following benefits:
 Without encryption the internet loses a lot of its functions...
 
 1. Home Finance
-Without being able to prove who you are without risking your life savings, banks are unable to allow internet banking from within the UK.
+Without being able to confirm both parties' identities and communicate information securely, banks would unable to provide internet banking in the UK.
 
 2. Online Retail
 Without being able to transfer payment details online securely, online retailers no longer are able to sell to UK citizens without risking high levels of fraud. Your bank will also want to avoid insecure online payments as this exposes them to fraud.
 
 3. Secure Commmunication
-Online messaging applications such as iMessage, WhatsApp and Facebook Messenger will not want to comprimise their security for the sake of one nation and the UK would be cut off from access to these programs.
+Online messaging applications such as iMessage, WhatsApp and Facebook Messenger will not want to compromise their security for the sake of one nation and the UK could lose access to these platforms.
 
 4. All websites with logins
 Logging into a website without encryption will expose your credentials to anyone who is connected to your network, either by wire or wirelessly. 
@@ -36,7 +36,7 @@ Even if you take the position that a government will not abuse the position, the
 
 Even if you do trust our government with all your secure data, unless every other country trusts our government we're back to no access to the internet again.
 
-### What if we licence encryption?
+### What if we license encryption?
 Only allowing certain individuals to communicate securely is akin to licensing speech and would be a violation of human rights? //Todo: Be certain on this point. A right to privacy and freedom of expression **should** cover this?
 
 ## The good  
