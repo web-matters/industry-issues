@@ -11,3 +11,4 @@ All these documents are drafts; the final versions will be published on the [Web
 * [General Data Protection Regulation](https://github.com/web-matters/industry-issues/tree/master/gdpr)
 * [Intermediary liability](https://github.com/web-matters/industry-issues/tree/master/intermediary-liability)
 * [Net neutrality](https://github.com/web-matters/industry-issues/tree/master/net-neutrality)
+* [Accessibility](https://github.com/web-matters/industry-issues/tree/master/accessibility)
