@@ -18,16 +18,16 @@ Without encryption the internet loses a lot of its functions...
 Without being able to confirm both parties' identities and communicate information securely, banks would unable to provide internet banking in the UK.
 
 2. Online Retail  
-Without being able to transfer payment details online securely, online retailers would no longer are able to sell to UK citizens without risking high levels of fraud. Your bank will also want to avoid insecure online payments as this exposes them to fraud.
+Without being able to transfer payment details online securely, online retailers would no longer be able to sell to UK citizens without risking high levels of fraud. Your bank will also want to avoid insecure online payments as this exposes them to fraud.
 
 3. Secure Commmunication  
-Online messaging applications such as iMessage, WhatsApp and Facebook Messenger will not want to compromise their security for the sake of one nation and the UK could lose access to these platforms.
+Online messaging applications such as iMessage, WhatsApp and Facebook Messenger would not want to compromise their security for the sake of one nation and the UK could lose access to these platforms.
 
 4. All websites with logins  
 Logging into a website without encryption will expose your credentials to anyone who is connected to your network, either by wire or wirelessly. 
 
 5. Back to Cash  
-All card payments and ATMs use the internet to verify payments and balance. Like Online Retail, this is unusable and we go back to cash.
+All card payments and ATMs use the internet to verify payments and balance. Like Online Retail, this would be unusable and we would go back to cash.
 
 ### But what if we keep encryption, but let GCHQ have a backdoor?
 Allowing ANY single person to break encryption results in a breakdown of trust.
@@ -37,7 +37,7 @@ Even if you take the position that a government will not abuse their position, t
 Even if you do trust our government with all your secure data, unless every other country trusts our government we're back to no access to the internet again.
 
 ### What if we license encryption?
-Only allowing certain individuals to communicate securely is akin to licensing speech and would be a violation of human rights? //Todo: Be certain on this point. A right to privacy and freedom of expression **should** cover this?
+Only allowing certain individuals to communicate securely is akin to licensing speech and could constitute a violation of the right to privacy and freedom of expression.
 
 ## The good  
 Encryption is an incredibly powerful tool for people to communicate effectively on the internet.
@@ -51,4 +51,4 @@ Government officials say that the internet is providing hidden communication for
 
 ## The Web Matters position
 
-Something about the fact that terrorists have been communicating in private as long as terrorists existed?
+Encryption is a critical component of the modern web. Without encryption, individuals, organisations and governments would be at risk of attack and exploitation from criminals and other hostile parties. Encryption enables businesses to safely offer their services online, and allows consumers to communicate securely, pay for goods/services and protect their privacy. Web Matters believes that restricting or weakening encryption is not a feasible solution for preventing terrorism or crime, and would cause considerable harm to the web and all of its users.
