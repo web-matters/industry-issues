@@ -4,10 +4,6 @@
 
 ## Why is it important?
 
-## The good
-
-## The bad
-
-## Examples
+## What's happening with it?
 
 ## The Web Matters position
