@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Net neutrality is “the principle that Internet service providers and governments regulating the Internet should treat all data on the Internet the same, not discriminating or charging differentially by user, content, website, platform, application, type of attached equipment, or mode of communication.” (Wikipedia)
+Net neutrality is “the principle that Internet service providers and governments regulating the Internet should treat all data on the Internet the same, not discriminating or charging differentially by user, content, website, platform, application, type of attached equipment, or mode of communication.” ([Wikipedia](https://en.wikipedia.org/wiki/Net_neutrality))
 
 This means that the companies and organisations which provide the underlying technical infrastructure of the internet must treat all data equally - not favouring or discriminating by content, source or destination.
 
