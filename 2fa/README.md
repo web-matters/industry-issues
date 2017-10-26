@@ -24,7 +24,7 @@ With 2fa turned on, these sites will also require the person logging in to provi
 
 ## What's happening with it?
 
-Currently 2fa is being rolled out slowly across the UK. HMRC recently changed their 2fa offering by providing a way to set up an authenticator application along with the possibility of sending a one time code over text message, which is problematic (see later).
+Currently 2fa is being rolled out slowly across the UK. HMRC recently changed their 2fa offering by providing a way to set up an authenticator application along with the possibility of sending a one time code over text message, which is problematic (see later). A [which? report released on 20th October 2016](https://press.which.co.uk/whichpressreleases/banks-can-do-more-to-protect-us-from-online-banking-fraud/) found that of the 11 high street banks, only 5 offered 2fa to their customers.
 
 2fa is very closely related to encryption of user data while in storage and in transit. Without encryption, there's no point for 2fa.
 
