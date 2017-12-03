@@ -26,9 +26,7 @@ Under the mantras of deregulation and market control, the Republican party has h
 
 In the US, the regulation of telecommunications, including internet service providers, falls to the Federal Communications Commission (FCC). Under the Trump presidency, the FCC’s moves to dismantle net neutrality have escalated fast.
 
-This is not a US-specific thing. In the UK certain mobile phone providers have been offering deals where data from certain websites - Netflix, Soundcloud, Deezer and others - will not come out of the user’s data allowance. This is not because of the generosity of the mobile phone providers, but because of deals done with these websites. This tipping of the playing field will have huge negative effects on smaller media providers.
-
-This particular deal is currently being investigated by [OFCOM, the the UK's communications regulator](https://www.ofcom.org.uk/).
+This is not a US-specific thing. In the UK certain mobile phone providers have been offering deals where data from certain websites - Netflix, Soundcloud, Deezer and others - will not come out of the user’s data allowance. This is not because of the generosity of the mobile phone providers, but because of deals done with these websites. This tipping of the playing field will have [huge negative effects](http://www.wired.co.uk/article/three-unlimited-data-netflix-amazon) on smaller media providers.
 
 ## The Web Matters position
 
