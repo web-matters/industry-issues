@@ -14,6 +14,20 @@ Accessibility can also mean ensuring that content and online services are availa
 
 ## Why is it important?
 
+Disability can take many forms, and affect people in many different ways. With more and more information and services moving online, and an estimated [20% of the UK population having a disability](https://www.gov.uk/government/statistics/disability-facts-and-figures) is is inevitable that the accessibility of most Web sites will increasingly matter to users.
+
+While it may be easy to dismiss Web accessibility as not important, or even worse dismiss people with disabilities as not important, it 
+
 ## What's happening with it?
 
+Fortunately, many organisations now realise that accessibility is something to be considered a high priority. They are working with experts, referencing the masses of [excellent information online](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction), and some are recruiting people with disabilities to help test Web sites. All this is commendable, however there are still too many organisations - and individual people working on the web - for whom accessibility is not seen as important.
+
+This may be due more to ignorance more than malice, but either way Web Matters will help educate its members and the wider Web community about our collective responsibility to keep the Web available for all. Accessibility is about making sure your service can be used by as many people as possible, which can only be a good thing for organisations.
+
 ## The Web Matters position
+
+Web Matters firmly agrees with Tim Berners-Lee, director of the [World Wide Web Consortium](https://www.w3.org) and inventor of the Web, [when he says](https://www.w3.org/standards/webdesign/accessibility):
+
+> The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
+
+We applaud [legislative efforts](https://www.gov.uk/guidance/equality-act-2010-guidance) which stress that organisations must make their Web sites accessible. However this by itself is not enough, and Web Matters is committed to educating its members about the importance of accessibility - not just because it's a legal requirement to do so, but because it is morally the right thing to do.
