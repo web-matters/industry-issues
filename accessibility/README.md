@@ -16,7 +16,7 @@ Accessibility can also mean ensuring that content and online services are availa
 
 Disability can take many forms, and affect people in many different ways. With more and more information and services moving online, and an estimated [20% of the UK population having a disability](https://www.gov.uk/government/statistics/disability-facts-and-figures), is is inevitable that the accessibility of most Web sites will increasingly matter to users.
 
-While it may be easy to dismiss Web accessibility as not important, or even worse dismiss people with disabilities as not important, it is increasingly obvious to many that ensuring all people have the opportunity to fully participate in all aspects of life is morally right and societally beneficial.
+While it may be easy to dismiss Web accessibility as not important, or even worse dismiss people with disabilities as not important, it is increasingly obvious to many that ensuring all people have the opportunity to fully participate in all aspects of life is morally right and societally beneficial. This is recognised by the UK government who have implemented the [UK Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance) which places a duty on organisations to [make 'reasonable adjustments' for disabled people](https://www.citizensadvice.org.uk/law-and-courts/discrimination/what-are-the-different-types-of-discrimination/duty-to-make-reasonable-adjustments-for-disabled-people/).
 
 ## What's happening with it?
 
@@ -35,3 +35,9 @@ We applaud [legislative](https://www.gov.uk/guidance/equality-act-2010-guidance)
 ## Further reading
 
 Heather Burns, one of the Web Matters founders, was [interviewed by the All-Party Parliamentary Group for Assistive Technology about the EAA](http://www.policyconnect.org.uk/appgat/brexit-and-digital-accessibility-whats-stake-0).
+
+[A good introduction to the types of disability which must be catered for on the web](https://www.coolfields.co.uk/2010/11/web-accessibility-types-of-disability/)
+
+[The World Wide Web Consortium's section on accessibility](https://www.w3.org/standards/webdesign/accessibility)
+
+[UK government advice about making website accessible](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
