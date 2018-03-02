@@ -20,7 +20,7 @@ Some people have made comparisons between internet intermediaries and other prov
 
 ## What's happening with it?
 
-The UK government has expressed the opinion that intermediaries should be held liable for the content in and moving through their systems. This is directly opposed to articles 12-15 of the [e-Commerce Directive](https://ec.europa.eu/digital-single-market/en/e-commerce-directive) ([see the wording here](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000L0031&from=EN)), the entirity of which is may become null and void when the UK leaves the EU.
+The UK government has expressed the opinion that intermediaries should be held liable for the content in and moving through their systems. This is directly opposed to articles 12-15 of the [e-Commerce Directive](https://ec.europa.eu/digital-single-market/en/e-commerce-directive) ([see the wording here](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000L0031&from=EN)), the entirity of which may become null and void when the UK leaves the EU.
 
 In the US the government has expressed similar ideas, and the hugely important [Section 230 of the Communications Decency Act](https://www.eff.org/issues/cda230) is in grave danger of being struck down by the current administration. Both governments have singled out blogging sites such as WordPress.com as well as communication platforms like Whatsapp to accuse them of providing "a secret place for terrorists to communicate with each other". [Evening Standard, March 26, 2017](https://www.standard.co.uk/news/politics/whatsapp-encryption-is-totally-unacceptable-says-home-secretary-amber-rudd-a3499416.html)
 
