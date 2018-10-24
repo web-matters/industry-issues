@@ -13,3 +13,4 @@ All these documents are drafts; the final versions will be published on the [Web
 * [Net neutrality](https://github.com/web-matters/industry-issues/tree/master/net-neutrality)
 * [Accessibility](https://github.com/web-matters/industry-issues/tree/master/accessibility)
 * [Encryption](https://github.com/web-matters/industry-issues/tree/master/encryption)
+* [Privacy](https://github.com/web-matters/industry-issues/tree/master/privacy)
